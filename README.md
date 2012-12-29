@@ -166,11 +166,11 @@ dată găsit free (care ținut minte că are abaterea minimă și frecvența max
 Link-uri și alte referințe
 ==========================
 
-[1] http://en.wikipedia.org/wiki/Damerau%E2%80%93Levenshtein_distance
-[2] S. Dasgupta, C.H. Papadimitriou, and U.V. Vazirani, "Algorithms", 2006
-[3] Thomas Cormen ș.a. - Introduction to algorithms pp 406-407
-[4] Peter Norvig's spell checker: http://norvig.com/spell-correct.html
+[1] http://en.wikipedia.org/wiki/Damerau%E2%80%93Levenshtein_distance \\
+[2] S. Dasgupta, C.H. Papadimitriou, and U.V. Vazirani, "Algorithms", 2006 \\
+[3] Thomas Cormen ș.a. - Introduction to algorithms pp 406-407 \\
+[4] Peter Norvig's spell checker: http://norvig.com/spell-correct.html \\
 [5] Hack Peter Norvig's spell checker to correct a phrase:
-http://stackoverflow.com/questions/5398722/using-the-levenshtein-distance-in-a-spell-checker
-[6] http://jeremykun.wordpress.com/2011/12/19/metrics-on-words/
-[7] http://jeremykun.wordpress.com/2012/01/15/word-segmentation/
+http://stackoverflow.com/questions/5398722/using-the-levenshtein-distance-in-a-spell-checker \\
+[6] http://jeremykun.wordpress.com/2011/12/19/metrics-on-words/ \\
+[7] http://jeremykun.wordpress.com/2012/01/15/word-segmentation/ \\
